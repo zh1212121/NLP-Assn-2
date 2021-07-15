@@ -11,6 +11,7 @@ Train_processed | Preprocessed training dataset
 Valid_processed | Preprocessed validation dataset
 model.sav | Saved model used for prediction
 vsctorizer.pickle | vectorizer used in model
+requirement.txt | .txt file stating all libraries and versions
 
 ## User Guide
 
